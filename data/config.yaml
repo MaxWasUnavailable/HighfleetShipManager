@@ -1,0 +1,3 @@
+downloads_directory: "./data/downloads/"
+repository_ids:
+  - "MaxWasUnavailable/HighfleetShipRepository"
