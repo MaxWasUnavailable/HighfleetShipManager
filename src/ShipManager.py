@@ -3,7 +3,7 @@ from io import BytesIO, StringIO
 from ruamel.yaml import YAML
 import requests
 
-from ShipEntry import ShipEntry
+from src.ShipEntry import ShipEntry
 
 yaml = YAML(typ='safe')
 

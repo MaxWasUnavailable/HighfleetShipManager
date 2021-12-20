@@ -1,9 +1,8 @@
-from github.GithubException import RateLimitExceededException
 from PySide2 import QtCore, QtWidgets, QtGui
-from ShipEntry import ShipEntryWidget
-from ShipManager import ShipManager
-from Config import Config
 from copy import copy
+from src.ShipEntry import ShipEntryWidget
+from src.ShipManager import ShipManager
+from src.Config import Config
 
 
 class Popup(QtWidgets.QWidget):
